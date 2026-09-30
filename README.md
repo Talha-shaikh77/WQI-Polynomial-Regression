@@ -75,8 +75,6 @@ These values are used to prepare the data for **WQI calculation and regression m
 - **Matplotlib** — for visualization
 - **Seaborn** — for the correlation heatmap
 - **Scikit-learn** — for machine learning and preprocessing
-- **openpyxl** — for reading the Excel dataset
-- **Jupyter Notebook** — for development and analysis
 
 ---
 
