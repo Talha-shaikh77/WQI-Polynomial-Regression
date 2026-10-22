@@ -14,10 +14,9 @@ The main goal is to use **Data Science and Machine Learning** to understand the 
 
 ---
 
-## 👥 Team
+## 👤 Project Creator
 
 - **Talha Shaikh** — Data cleaning, feature engineering, WQI calculation, Linear and Polynomial Regression, model evaluation, and visualization.
-- **Nafil Ajameri** — Data collection, supporting research from published papers, and poster design.
 
 **Students, School of Emerging Science and Technology, Gujarat University**
 
@@ -355,8 +354,7 @@ The results shown in this README are based on the dataset, WQI method, preproces
 
 **Institution:** School of Emerging Science and Technology, Gujarat University
 
-**Students:**
+**Student:**
 - Talha Shaikh
-- Nafil Ajameri
 
 This project was developed as part of academic work to apply Data Science and Machine Learning concepts to a real-world environmental problem.
