@@ -358,3 +358,10 @@ The results shown in this README are based on the dataset, WQI method, preproces
 - Talha Shaikh
 
 This project was developed as part of academic work to apply Data Science and Machine Learning concepts to a real-world environmental problem.
+
+## 📞 Contact
+
+**Talha Shaikh**
+* LinkedIn: [Talha Shaikh](https://www.linkedin.com/in/talha-shaikh-3847523b4/)
+* GitHub: [Talha-shaikh77](https://github.com/Talha-shaikh77) 
+* Email: talhashaikh078696@gmail.com
